@@ -11,10 +11,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: var(--light-green);
-  /* background-image: url("https://freephonewallpapersformobile.files.wordpress.com/2013/09/green-pantech-vega-iron-wallpapers-for-mobile-1080x1920-hd.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100% 100%; */
+
 
   display: flex;
   flex-direction: column;
